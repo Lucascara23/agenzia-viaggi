@@ -1,0 +1,88 @@
+Bus con targa CC230DD parte dagli alloggi dei tedeschi
+Bus con targa EE340FF parte dagli alloggi dei spagnoli
+Bus con targa AA120BB parte dagli alloggi dei francesi
+Bus con targa EE340FF arriva al porto con i spagnoli
+Bus con targa AA120BB arriva al porto con i francesi
+Bus con targa CC230DD arriva al porto con i tedeschi
+James sta vendendo i biglietti per i tedeschi
+Luca sta vendendo i biglietti per i francesi
+Chiara sta vendendo i biglietti per i spagnoli
+Biglietti venduti ai francesi da Luca
+Biglietti venduti ai tedeschi da James
+Biglietti venduti ai spagnoli da Chiara
+Imbarco sul traghetto dei francesi
+Partenza dal porto dei francesi
+Ritorno al porto del traghetto
+Imbarco sul traghetto dei tedeschi
+Partenza dal porto dei tedeschi
+Ritorno al porto del traghetto
+Imbarco sul traghetto dei spagnoli
+Partenza dal porto dei spagnoli
+Ritorno al porto del traghetto
+Tutti i gruppi sono stati trasportati sull'isola
+Bus con targa CC230DD parte dagli alloggi dei tedeschi
+Bus con targa AA120BB parte dagli alloggi dei francesi
+Bus con targa EE340FF parte dagli alloggi dei spagnoli
+Bus con targa EE340FF arriva al porto con i spagnoli
+Bus con targa AA120BB arriva al porto con i francesi
+Bus con targa CC230DD arriva al porto con i tedeschi
+James sta vendendo i biglietti per i tedeschi
+Luca sta vendendo i biglietti per i francesi
+Chiara sta vendendo i biglietti per i spagnoli
+Biglietti venduti ai francesi da Luca
+Imbarco sul traghetto dei francesi
+Biglietti venduti ai tedeschi da James
+Biglietti venduti ai spagnoli da Chiara
+Partenza dal porto dei francesi
+Ritorno al porto del traghetto
+Imbarco sul traghetto dei spagnoli
+Partenza dal porto dei spagnoli
+Ritorno al porto del traghetto
+Imbarco sul traghetto dei tedeschi
+Partenza dal porto dei tedeschi
+Ritorno al porto del traghetto
+Tutti i gruppi sono stati trasportati sull'isola
+Bus con targa AA120BB parte dagli alloggi dei francesi
+Bus con targa CC230DD parte dagli alloggi dei tedeschi
+Bus con targa EE340FF parte dagli alloggi dei spagnoli
+Bus con targa EE340FF arriva al porto con i spagnoli
+Bus con targa CC230DD arriva al porto con i tedeschi
+Bus con targa AA120BB arriva al porto con i francesi
+Chiara sta vendendo i biglietti per i spagnoli
+James sta vendendo i biglietti per i tedeschi
+Luca sta vendendo i biglietti per i francesi
+Biglietti venduti ai tedeschi da James
+Biglietti venduti ai spagnoli da Chiara
+Imbarco sul traghetto dei tedeschi
+Biglietti venduti ai francesi da Luca
+Partenza dal porto dei tedeschi
+Ritorno al porto del traghetto
+Imbarco sul traghetto dei francesi
+Partenza dal porto dei francesi
+Ritorno al porto del traghetto
+Imbarco sul traghetto dei spagnoli
+Partenza dal porto dei spagnoli
+Ritorno al porto del traghetto
+Tutti i gruppi sono stati trasportati sull'isola
+Bus con targa CC230DD parte dagli alloggi dei tedeschi
+Bus con targa AA120BB parte dagli alloggi dei francesi
+Bus con targa EE340FF parte dagli alloggi dei spagnoli
+Bus con targa EE340FF arriva al porto con i spagnoli
+Bus con targa AA120BB arriva al porto con i francesi
+Bus con targa CC230DD arriva al porto con i tedeschi
+Chiara sta vendendo i biglietti per i spagnoli
+Luca sta vendendo i biglietti per i francesi
+James sta vendendo i biglietti per i tedeschi
+Biglietti venduti ai spagnoli da Chiara
+Biglietti venduti ai tedeschi da James
+Biglietti venduti ai francesi da Luca
+Imbarco sul traghetto dei spagnoli
+Partenza dal porto dei spagnoli
+Ritorno al porto del traghetto
+Imbarco sul traghetto dei francesi
+Partenza dal porto dei francesi
+Ritorno al porto del traghetto
+Imbarco sul traghetto dei tedeschi
+Partenza dal porto dei tedeschi
+Ritorno al porto del traghetto
+Tutti i gruppi sono stati trasportati sull'isola
